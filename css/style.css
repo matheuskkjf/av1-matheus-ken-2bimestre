@@ -106,20 +106,3 @@ footer {
   margin-top: 10px;
   border-top: 1px solid #550000;
 }
-.subtitle {
-  color: #ffb3b3;
-  margin: 10px 0 0;
-}
-.profile,
-.details,
-.curiosidades {
-  margin-bottom: 24px;
-}
-.profile p,
-.details p,
-.curiosidades p,
-.profile ul,
-.details ul,
-.curiosidades ul {
-  color: #e5e5e5;
-}
