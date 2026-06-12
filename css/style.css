@@ -128,3 +128,23 @@ button {
   padding: 10px 20px;
   margin-top: 10px;
 }
+table {
+  width: 80%;
+  margin: 30px auto;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  border: 1px solid #ffffff;
+  padding: 10px;
+  text-align: center;
+}
+
+th {
+  background-color: #000000;
+}
+
+tr:hover {
+  background-color: #3d0000;
+}
